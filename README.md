@@ -1,6 +1,6 @@
 # mersenne-twister-es
 
-A JavaScript Implementation of MersenneTwiseter writting with ES Modules
+A JavaScript Implementation of MersenneTwister written with ES Modules
 
 ## Disclaimer
 
