@@ -1,0 +1,10 @@
+{
+  "name": "mersenne-twister-es",
+  "version": "0.0.1",
+  "description": "A JavaScript Implementation of MersenneTwiseter writting with ES Modules",
+  "main": "index.js",
+  "repository": "https://github.com/TheLarkInn/mersenne-twister-es",
+  "author": "Sean Larkin <sean.larkin1@gmail.com>",
+  "license": "BSD-3",
+  "private": false
+}
